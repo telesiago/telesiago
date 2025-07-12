@@ -26,6 +26,11 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e apr
 - 🔗 [Dondduu](https://github.com/telesiago/Dondduu) — Controle financeiro pessoal (Web + Mobile)
 - 🧩 Outros projetos em breve...
 
+## 📫 Contato
+
+- Email: telesiago@gmail.com
+- LinkedIn: [linkedin.com/in/iagoteles](https://www.linkedin.com/in/iagoteles/)
+
 ## Tecnologias que uso no meu dia a dia
 
 <p align="left">
@@ -33,12 +38,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e apr
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,html,css,git,docker,firebase" />
   </a>
 </p>
-
-## 📫 Contato
-
-- Email: telesiago@gmail.com
-- LinkedIn: [linkedin.com/in/iagoteles](https://www.linkedin.com/in/iagoteles/)
-
 ---
 
 ✨ Obrigado por visitar meu perfil!
